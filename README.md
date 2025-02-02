@@ -19,11 +19,11 @@ A user-friendly Java-based ATM simulation that allows users to:
 Follow these steps to run any of the Java programs in this repository:
 
 ### 1. Compile the Program
-Open the Command Prompt and navigate to the folder containing the Java file. cd path\to\your\java\file
+• Open the Command Prompt and navigate to the folder containing the Java file. cd path\to\your\java\file
 
-Compile the program using the javac command: javac FileName.java
+• Compile the program using the javac command: javac FileName.java
 
 ### 2. Run the Program
-Execute the compiled program using the java command: java FileName
+• Execute the compiled program using the java command: java FileName
 ### 3. Provide Inputs
-Follow the prompts displayed by the program to interact and test functionality.
+• Follow the prompts displayed by the program to interact and test functionality.
